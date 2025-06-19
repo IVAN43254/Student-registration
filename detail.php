@@ -157,7 +157,7 @@ if (!$student) {
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 
     <script>
-    // Download PDF using html2canvas
+    
     async function downloadPDF() {
         const profile = document.getElementById("profile-content");
         const canvas = await html2canvas(profile, {
