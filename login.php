@@ -52,7 +52,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             padding: 12px;
             margin: 10px 0;
             border: 2px solid #cc0000;
-            border-radius: 8px;
+            border-radius: 9px;
             background: #f0f8ff;
         }
         button {
