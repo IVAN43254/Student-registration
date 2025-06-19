@@ -20,6 +20,7 @@ $students = $stmt->fetchAll(PDO::FETCH_ASSOC);
             text-align: center;
             color: #cc0000;
             margin-bottom: 30px;
+            /* margin-bottom: 30px; */
         }
         .student-card {
             background-color: #ffe5e5;
